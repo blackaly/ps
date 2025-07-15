@@ -1,3 +1,5 @@
+
+// You can use the boyer moore algorithm for solving this problem, but this was the first solution that got into my head.
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
